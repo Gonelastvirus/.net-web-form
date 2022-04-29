@@ -1,0 +1,6 @@
+/home/lastvirus/Projects/xyz/xyz/bin/xyz.dll
+/home/lastvirus/Projects/xyz/xyz/bin/xyz.pdb
+/home/lastvirus/Projects/xyz/xyz/obj/Debug/xyz.csprojAssemblyReference.cache
+/home/lastvirus/Projects/xyz/xyz/obj/Debug/xyz.csproj.CoreCompileInputs.cache
+/home/lastvirus/Projects/xyz/xyz/obj/Debug/xyz.dll
+/home/lastvirus/Projects/xyz/xyz/obj/Debug/xyz.pdb

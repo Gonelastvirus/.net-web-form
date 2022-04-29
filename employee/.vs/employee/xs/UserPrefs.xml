@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F3B5E8E0-847C-4D7E-8894-127E88CF4235}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="employee/Default.aspx.cs">
+    <Files>
+      <File FileName="employee/Default.aspx" Line="28" Column="34" />
+      <File FileName="employee/Default.aspx.cs" Line="60" Column="14" />
+      <File FileName="employee/Default.aspx.designer.cs" Line="47" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="employee" expanded="True">
+            <Node name="employee" expanded="True">
+              <Node name="Default.aspx" expanded="True">
+                <Node name="Default.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.employee PreferredExecutionTarget="firefox" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
